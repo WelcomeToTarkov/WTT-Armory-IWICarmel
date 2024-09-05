@@ -5,16 +5,16 @@
 		"handbookParentId": "5b5f78fc86f77409407a7f90",
 		"overrideProperties": {
 			"ExaminedByDefault": true,
-			"Weight": 0.73,
+			"Weight": 1.73,
 			"Width": 3,
 			"bFirerate": 850,
 			"RecoilForceBack": 335,
-			"Ergonomics": 64,
+			"Ergonomics": 52,
 			"RecoilForceUp": 105,
 			"RepairCost": 170,
 			"RecoilCamera": 0.049,
 			"BaseMalfunctionChance": 0.15,
-			"DurabilityBurnRatio": 1.13,
+			"DurabilityBurnRatio": 1.14,
 			"Prefab": {
 				"path": "WeaponCarmel/weapon_carmel.bundle",
 				"rcid": ""
@@ -460,8 +460,8 @@
 				"Templates": [
 					"66ba249b102a9dd6040a6e7e"
 				],
-				"Level2": 1000,
-				"Level3": 2000
+				"Level2": 250,
+				"Level3": 400
 			}
 		],
 		"addweaponpreset": true,
@@ -582,16 +582,16 @@
 		"handbookParentId": "5b5f78fc86f77409407a7f90",
 		"overrideProperties": {
 			"ExaminedByDefault": true,
-			"Weight": 0.73,
+			"Weight": 1.73,
 			"Width": 3,
 			"bFirerate": 850,
 			"RecoilForceBack": 335,
-			"Ergonomics": 64,
+			"Ergonomics": 52,
 			"RecoilForceUp": 105,
 			"RepairCost": 170,
 			"RecoilCamera": 0.049,
 			"BaseMalfunctionChance": 0.15,
-			"DurabilityBurnRatio": 1.13,
+			"DurabilityBurnRatio": 1.14,
 			"Prefab": {
 				"path": "WeaponCarmel/weapon_carmel_fde.bundle",
 				"rcid": ""
@@ -990,7 +990,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "IWI Carmel 5.56x45mm Assault Rifle",
+				"name": "IWI Carmel 5.56x45mm Assault Rifle (FDE)",
 				"shortName": "Carmel",
 				"description": "The IWI Carmel is a short-stroke, gas-piston operated rifle chambered in 5.56x45mm and designed and manufactured by Israeli Weapon Industries."
 			}
@@ -1037,8 +1037,8 @@
 				"Templates": [
 					"66ba26a6925f9921573224c9"
 				],
-				"Level2": 1000,
-				"Level3": 2000
+				"Level2": 250,
+				"Level3": 400
 			}
 		],
 		"addweaponpreset": true,
@@ -1222,7 +1222,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "IWI Carmel Folding Stock",
+				"name": "IWI Carmel Folding Stock (FDE)",
 				"shortName": "Carmel",
 				"description": "Standard issue foldable rifle stock for the IWI 5.56x45mm assault rifle."
 			}
@@ -1635,7 +1635,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "IWI Carmel Bottom Rail Cover",
+				"name": "IWI Carmel Bottom Rail Cover (FDE)",
 				"shortName": "Carmel",
 				"description": "Polymer rail cover for the bottom rail of the IWI Carmel handguard."
 			}
@@ -1832,7 +1832,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "IWI Carmel Left Rail Cover",
+				"name": "IWI Carmel Left Rail Cover (FDE)",
 				"shortName": "Carmel",
 				"description": "Polymer rail cover for the side rail of the IWI Carmel handguard."
 			}
@@ -1881,7 +1881,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "IWI Carmel Right Rail Cover",
+				"name": "IWI Carmel Right Rail Cover (FDE)",
 				"shortName": "Carmel",
 				"description": "Polymer rail cover for the side rail of the IWI Carmel handguard."
 			}
@@ -1931,7 +1931,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "IWI Carmel Polymer Pistol Grip",
+				"name": "IWI Carmel Polymer Pistol Grip (FDE)",
 				"shortName": "Carmel",
 				"description": "Standard issue polymer pistol grip for the IWI Carmel 5.56x45mm assault rifle."
 			}
